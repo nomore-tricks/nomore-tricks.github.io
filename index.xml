@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jane - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Jane - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 28 Jun 2019 15:39:24 +0800</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      
+        <description>&lt;p&gt;Hugo is a static site engine written in Go.&lt;/p&gt;
+
+&lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;Cobra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;Viper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/jWalterWeatherman&#34;&gt;J Walter Weatherman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://localhost:1313/post/first/</link>
+      <pubDate>Fri, 28 Jun 2019 15:39:24 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/first/</guid>
+      
+        <description>
+
+&lt;h2 id=&#34;footnote-1&#34;&gt;Footnote-1&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;You can create footnotes like this[^footnote].
+
+[^footnote]: Here is the *text* of the **footnote**.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;will produce:&lt;/p&gt;
+
+&lt;p&gt;You can create footnotes like this&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:footnote1&#34;&gt;&lt;a href=&#34;#fn:footnote1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;Mouse on the ‘footnote’ superscript to see content of the footnote.&lt;/p&gt;
+
+&lt;h2 id=&#34;footnote-2&#34;&gt;Footnote-2&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;You can create footnotes like this[^footnote2].
+
+[^footnote2]: Here is the *text* of the **footnote**.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;will produce:&lt;/p&gt;
+
+&lt;p&gt;You can create footnotes like this&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:footnote&#34;&gt;&lt;a href=&#34;#fn:footnote&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;Mouse on the ‘footnote’ superscript to see content of the footnote.&lt;/p&gt;
+
+&lt;h2 id=&#34;footnote-3&#34;&gt;Footnote-3&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;You can create footnotes like this[^footnote].
+
+[^footnote]: Here is the *text* of the **footnote**.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;will produce:&lt;/p&gt;
+
+&lt;p&gt;You can create footnotes like this&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:footnote3&#34;&gt;&lt;a href=&#34;#fn:footnote3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;Mouse on the ‘footnote’ superscript to see content of the footnote.&lt;/p&gt;
+
+&lt;h2 id=&#34;footnote-4&#34;&gt;Footnote-4&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;You can create footnotes like this[^footnote].
+
+[^footnote]: Here is the *text* of the **footnote**.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;will produce:&lt;/p&gt;
+
+&lt;p&gt;You can create footnotes like this&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:footnote4&#34;&gt;&lt;a href=&#34;#fn:footnote4&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;Mouse on the ‘footnote’ superscript to see content of the footnote.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:footnote1&#34;&gt;Here is the &lt;em&gt;text&lt;/em&gt; of the &lt;strong&gt;footnote-1&lt;/strong&gt;.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:footnote1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:footnote&#34;&gt;Here is the &lt;em&gt;text&lt;/em&gt; of the &lt;strong&gt;footnote-2&lt;/strong&gt;. Here is the text of the footnote-2. Here is the text of the footnote-2. Here is the text of the footnote-2. Here is the text of the footnote-2.  &lt;a href=&#34;https://gohugo.io/&#34;&gt;The world’s fastest framework for building websites | Hugo&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:footnote&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:footnote3&#34;&gt;Here is the &lt;em&gt;text&lt;/em&gt; of the &lt;strong&gt;footnote-3&lt;/strong&gt;.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:footnote3&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:footnote4&#34;&gt;Here is the &lt;em&gt;text&lt;/em&gt; of the &lt;strong&gt;footnote-4&lt;/strong&gt;.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:footnote4&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>
